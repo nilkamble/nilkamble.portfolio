@@ -1,7 +1,5 @@
 @media screen and (max-width: 1400px) {
-     body.dark{
-                background-color: #333333;
-            }
+    
     #profile {
       height: 83vh;
       margin-bottom: 6rem;
@@ -13,9 +11,7 @@
   }
   
   @media screen and (max-width: 1200px) {
-       body.dark{
-                background-color: #333333;
-            }
+      
     #desktop-nav {
       display: none;
     }
@@ -51,9 +47,7 @@
   }
   
   @media screen and (max-width: 600px) {
-       body.dark{
-                background-color: #333333;
-            }
+      
     #contact,
     footer {
       height: 40vh;
