@@ -12,6 +12,9 @@
 body{
     font-family:'Poppins',sans-serif ;
 }
+   body.dark{
+                background-color: #333333;
+            }
 html{
     scroll-behavior: smooth;
 }
