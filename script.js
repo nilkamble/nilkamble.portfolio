@@ -5,10 +5,7 @@ function toggleMenu() {
     icon.classList.toggle("open");
   }
 
- const body = document.querySelector('body'),
-            toggle = document.querySelector('.darkmode');
-
-            toggle.addEventListener("click" ,()=>{
-                body.classList.toggle("dark-mode")
-            });
-
+function darkmode() {
+  let element = document.body;
+  element.classList.toggle('dark-mode')
+}
