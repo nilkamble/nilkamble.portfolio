@@ -9,6 +9,6 @@ function toggleMenu() {
             toggle = document.querySelector('.darkmode');
 
             toggle.addEventListener("click" ,()=>{
-                body.classList.toggle("dark")
+                body.classList.toggle("dark-mode")
             });
 
