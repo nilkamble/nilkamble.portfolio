@@ -102,14 +102,13 @@
     }
     .title {
       font-size: 2rem;
-        -webkit-animation:tracking-in-expand .7s cubic-bezier(.215,.61,.355,1.000) reverse backwards;animation:tracking-in-expand .7s cubic-bezier(.215,.61,.355,1.000) reverse backwards;
-    }
+       
     .text-container {
       text-align: justify;
     }
       .dark-mode{
       background-color:#0A0A0A;
   }
-      @-webkit-keyframes tracking-in-expand{0%{letter-spacing:-.5em;opacity:0}40%{opacity:.6}100%{opacity:1}}@keyframes tracking-in-expand{0%{letter-spacing:-.5em;opacity:0}40%{opacity:.6}100%{opacity:1}}
+    
   }
 
