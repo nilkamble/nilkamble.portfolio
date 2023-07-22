@@ -11,9 +11,10 @@
 
 body{
     font-family:'Poppins',sans-serif ;
+  background-color:black;
 }
    body.dark{
-                background-color: #333333;
+                background-color: white;
             }
 html{
     scroll-behavior: smooth;
